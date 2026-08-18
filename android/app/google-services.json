@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586613437936",
+    "project_id": "odev2final",
+    "storage_bucket": "odev2final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586613437936:android:a94acc5e9ea80f7ffc1935",
+        "android_client_info": {
+          "package_name": "com.example.odev2_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8YU5-gnGUWpti13E8qYgcbs6veVtuEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
